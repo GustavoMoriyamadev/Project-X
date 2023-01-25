@@ -12,7 +12,7 @@ E vá para o round de desempate, mecânica golden gun
 ARENA
 
 arena deve ser dividida ao meio, proporcionando para cada
-Lado 2,5x10m de área. 
+Lado 5x10m de área. 
 No canto superior esquerdo de cada lado dos times
 Existirá uma torre de vigilância, essa torre será 
 liberada aos 3 minutos de round, durante os primeiros 
