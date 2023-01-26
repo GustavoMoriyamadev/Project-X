@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/project/ProjectPIG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/project/ProjectPIG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/project/ProjectPIG/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/project/ProjectPIG/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/project/ProjectPIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/project/ProjectPIG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/project/ProjectPIG/Content/StarterContent/Materials/M_AssetPlatform.uasset"
 			]
 		}
 	]
