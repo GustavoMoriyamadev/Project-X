@@ -20,7 +20,7 @@ liberada aos 3 minutos de round, durante os primeiros
 os players não perdem espaço na arena com uma área inutilizada
 
 No meio da arena um abismo de 5 metros separando os times
-este abismo é um limbo, o player que tentar entrar nele morre altomaticamente 
+este abismo é um limbo, o player que tentar entrar nele morre automaticamente 
 
 Covers: existirão 5 covers de cada lado, 
 sendo 2 a frente do campo com 2 metros de largura e 1 de altura
