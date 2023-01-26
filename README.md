@@ -40,3 +40,11 @@ Quantidade máxima de players por torre: 1
 Cenário: 
 Opção 1: uma arena, estilo coliseu com "torcida" na arquibancada 
 Opção 2: uma área completamente aberta, como se fosse em cima de um planeta. 
+
+
+#(PH)
+Cover: 
+Opção 1: janelas blindadas, e janelas destrutiveis.
+Opção 2: cover que desaparece (o cover pode "piscar" em vermelho uma quantidade "x" de vezes, indicando que irá desaparecer)
+Opção 3: cover que recebe dano, ex: madeira  (a idéia é que vá mudando o aspecto do cover conforme leva dano, até que seja completamente destruído)
+#
